@@ -1,7 +1,12 @@
-# oo3GLanternProject
+ oo3GLanternProject
 
-### GROUP MEMBERS: MACARIOLA, QUIJANO, FETALINO EQ3
-### CHOSEN SDG: 4 QUALITY EDUCATION
-### PROJECT: ENHANCED GRADING APP
+ GROUP MEMBERS: MACARIOLA, QUIJANO, FETALINO EQ3
+ THEME SDG: 4 QUALITY EDUCATION
+ PROJECT TITLE: COLLEGE BUDDY (ENHANCED GRADING APP)
 
-THIS PROJECT WILL BASE UPON GRADING SYSTEM CODES THAT WOULD DETERMINE YOUR GRADE, GPA, AND AVERAGE ALL THROUGHOUT THE SEMESTER. THE CODE WILL BE BUILT WITHIN JAVAFX SO IT CAN BE UTILIZED AS AN APP RATHER THAN INPUTTING IN CONSOLE.  WITH ADJUSTABLE PASSING GRADE, IT IS WIDELY SUITED FOR PEOPLE WHO HAVE A SET AMOUNT OF SUBJECTS WITHIN THE TERM AS YOU CAN PUT HOW MANY AS YOU WANT.
+
+College buddy your only application need when it comes to the knowledge of your code! Due to the overstress when it comes to College, we tend to ease college student's workload and relieve stress with this application. It gives you options for using three different applications, From determining whether you passed the subject or not or when you want to know your GPA in this term the application bundles everything into one. 
+
+
+Features: • LOGIN / PASSWORD • MAIN MENU • 3 DIFFERENT CODES FOR CALCULATING GRADES
+
