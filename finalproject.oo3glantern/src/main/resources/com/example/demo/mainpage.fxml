@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/20.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.demo.Mainpage">
+   <children>
+      <Label layoutX="84.0" layoutY="37.0" text="LBYEC2B PRACTICAL EXAM">
+         <font>
+            <Font size="36.0" />
+         </font>
+      </Label>
+      <Button layoutX="220.0" layoutY="147.0" mnemonicParsing="false" onAction="#onStartClick" text="Solution to Linear Equation" />
+      <Button layoutX="246.0" layoutY="187.0" mnemonicParsing="false" text="Stamp and Photo" />
+      <Button layoutX="227.0" layoutY="225.0" mnemonicParsing="false" text="Slope of Linear Equation" />
+   </children>
+</AnchorPane>
