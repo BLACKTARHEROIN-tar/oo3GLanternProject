@@ -10,4 +10,4 @@ College buddy your only application need when it comes to the knowledge of your 
 
 Features: • LOGIN / PASSWORD • MAIN MENU • 3 DIFFERENT CODES FOR CALCULATING GRADES
 
-VIDEO PRESENTATION: https://drive.google.com/drive/u/4/folders/1JRQ0LsDP9fi_A9K33QzjWHUXR3vhEFAk
+VIDEO PRESENTATION: (https://drive.google.com/drive/u/4/folders/1_Qnp2RCrutHc4hF_ixnA9ZLqumk9jV9S)
